@@ -34,7 +34,7 @@ class Cat {
       const bird = new Bird("Brad", "male")
   }else {
         return this.name + " " + "says" + " " +"squawk!";
-          const  bird2 = new Bird("Mable", "female")
+          const  bird2 = new Bird("Jennifer", "female")
   }
   }
  }
